@@ -9,6 +9,8 @@ Condition : le fichier photoshop doit être rangé dans un dossier "PSD" au pré
 
 Merci de ne pas redistribuer ce script directement, mais de linker le site mariejulien.com
 
+Fork par stef : enlever l'espace dans le nom final et remplacer par des "-"
+
 Conception : Julien Dubedout - judbd.com / www.mariejulien.com
 Code /réalisation : Yannick Lepetit
 ------------------------------------------------------------------------------------------------------------------------------*/
